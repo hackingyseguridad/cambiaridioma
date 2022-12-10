@@ -1,6 +1,6 @@
 # cambiaridioma
 
-sudo apt-get install language-pack-es
+sudo dpkg-reconfigure locales
 
 # No persistente
 
