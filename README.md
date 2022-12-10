@@ -20,7 +20,7 @@ update-locale LANG=es_ES.UTF-8
 
 vim /etc/default/locale
 
-LANG=es_ES.UTF-8
+LANG="es_ES.UTF-8"
 
 LC_TIME=es_ES.UTF-8
 
