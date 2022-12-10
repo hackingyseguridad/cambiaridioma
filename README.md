@@ -1,5 +1,7 @@
 # cambiaridioma
 
+sudo apt-get install language-pack-es
+
 # No persistente
 
 setxkbmap es sundeadkeys
