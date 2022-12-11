@@ -42,7 +42,7 @@ XKBOPTIONS=""
 
 BACKSPACE="guess"
 
-
+#
 Si es un PC portatil con teclado reducido 
 
 
