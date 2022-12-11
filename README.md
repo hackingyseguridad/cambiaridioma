@@ -23,7 +23,7 @@ update-locale LANG=es_ES.UTF-8
 
 vim /etc/default/locale
 
-LANG="es_US.UTF-8"
+LANG=es_US.UTF-8
 
 LANGUAGE="es_ES:es"
 
