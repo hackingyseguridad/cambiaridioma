@@ -29,6 +29,7 @@ LANGUAGE="es_ES:es"
 
 LC_ALL="es_ES.UTF-8"
 
+
 vim /etc/default/keyboard 
 
 XKBMODEL="pc105"
@@ -40,3 +41,19 @@ XKBVARIANT=""
 XKBOPTIONS=""
 
 BACKSPACE="guess"
+
+
+Si es un PC portatil con teclado reducido 
+
+
+XKBMODEL=""
+
+XKBLAYOUT="es"
+
+XKBVARIANT=""
+
+XKBOPTIONS=""
+
+BACKSPACE="guess"
+
+
