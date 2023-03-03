@@ -1,6 +1,7 @@
 # cambiaridioma
 
 sudo dpkg-reconfigure locales
+
 dpkg-reconfigure keyboard-configuration
 
 # No persistente
