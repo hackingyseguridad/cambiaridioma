@@ -1,6 +1,6 @@
 
 
-
+# Para automatizar la configuración de la fuente de la consola (Terminus Bold 12x24) en Kali Linux (modo texto, sin X), evitando el menú interactivo de dpkg-reconfigure console-setup,
 
 apt-get  install -y fonts-terminus console-terminus
 
