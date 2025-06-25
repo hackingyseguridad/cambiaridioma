@@ -13,3 +13,9 @@ FONTFACE="Terminus"
 FONTSIZE="12x24"
 FONT="ter-124b"
 EOF'
+
+
+sudo setupcon --force
+
+
+
