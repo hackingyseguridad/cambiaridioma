@@ -2,10 +2,14 @@
 # Sin salvapantalla, siempre activa!
  setvesablank 0
 
-# 
+# Quitar xscreensaver (si está instalado)
+sudo apt remove xscreensaver
+
+# O para light-locker
+sudo apt remove light-locker
+
 
 # desde modo X  Xfce4
-
 xset s off
 xset s noblack
 xset q | grep -A 1 "DPMS"
