@@ -1,4 +1,14 @@
 
+#!/bin/bash
+
+# desde modo X  Xfce4
+sleep 1; xset s off
+sleep 1; xset s noblank
+sleep 1; xset s noexpose
+sleep 1; xset -dpms
+xset s off
+xset q
+
 # Sin salvapantalla, siempre activa!
  setvesablank 0
 
@@ -8,14 +18,6 @@ sudo apt remove xscreensaver
 # O para light-locker
 sudo apt remove light-locker
 
-
-# desde modo X  Xfce4
-xset s off
-xset s noblack
-xset q | grep -A 1 "DPMS"
-xset -dpms
-xset s off
-xset q
 
 #
 
