@@ -1,6 +1,7 @@
 #!/usr/bin/env bash
 echo 
 echo "Instalando ... "
+chmod 777 *.sh
 setxkbmap es sundeadkeys
 update-locale LANG=es_ES.UTF-8 
 localectl set-locale LANG=es_ES.UTF-8
