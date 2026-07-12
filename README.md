@@ -2,9 +2,6 @@
 
 Scripts de configuración inicial tras instalar **Kali Linux** (Debian SO). Automatizan tareas repetitivas de post-instalación: idioma, teclado, DNS, SSH, protector de pantalla, navegador y creación del USB de instalación.
 
-> Repositorio: [hackingyseguridad/inicio](https://github.com/hackingyseguridad/inicio)
-> Autor: [Antonio Taboada](https://github.com/hackingyseguridad) — [hackingyseguridad.com](http://www.hackingyseguridad.com/)
-
 ## Requisitos previos
 
 - Kali Linux (o cualquier Debian) recién instalado.
@@ -60,5 +57,7 @@ Sin licencia especificada en el repositorio original. Consulta con el autor ante
 
 #
 http://wwww.hackingyseguridad.com/
+
+Repositorio: [hackingyseguridad/inicio](https://github.com/hackingyseguridad/inicio)
 #
 
