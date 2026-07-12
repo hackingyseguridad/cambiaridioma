@@ -1,5 +1,6 @@
 #!/bin/sh
 # Script para modificar /etc/resolv.conf y configurar manualmente DNS resolver
+# chattr +i /etc/resolv.conf  impide moficiar el fichero luego , ni borrarlo
 # (Resolvers) Antonio Taboada - http://www.hackingyseguridad.com/ 2025
 
 chattr -i /etc/resolv.conf
