@@ -15,6 +15,8 @@ echo
 echo "Copiando ficheros ..."
 chmod 777 apaga
 cp apaga /sbin/
+chmod 777 reinicia
+cp reinicia /sbin/
 chmod 777 apagar
 cp apagar /sbin/
 echo "Instalando ... "
